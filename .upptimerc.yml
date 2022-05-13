@@ -5,16 +5,24 @@ repo: status # The name of this repository
 sites:
   - name: Wisp Server
     url: https://vnhosts.xyz
-  - name: Main Site
-    url: https://www.vnhosts.com
   - name: Support Site
     url: https://www.vnhosts.net
+  - name: Nerdy Megans Server
+    check: "tcp-ping"
+    url: 135.148.162.24
+    port: 26900
+  - name: Gnome Test Status
+    check: "tcp-ping"
+    url: 135.148.162.24
+    port: 27020
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vnhosts.com
   # baseUrl: /your-repo-name
+  theme: night
+  favicon: https://www.vnhosts.net/assets/img/logo.png
   logoUrl: https://www.vnhosts.net/assets/img/logo.png
   name: VNHosts Status
   introTitle: "This Site Is For Status Updates For The Server!"
