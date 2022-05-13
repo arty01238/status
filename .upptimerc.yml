@@ -11,40 +11,49 @@ sites:
     check: "tcp-ping"
     url: 135.148.162.24
     port: 26900
+    maxResponseTime: 5000
   - name: Gnome Ark Server
     check: "tcp-ping"
     url: 135.148.162.24
     port: 27020
+    maxResponseTime: 5000
   - name: Nbeedy Server
     check: "tcp-ping"
     url: 135.148.162.24
     port: 30320
+    maxResponseTime: 5000
   - name: EmmaVibes Server
     check: "tcp-ping"
     url: 135.148.162.24
     port: 25900
+    maxResponseTime: 5000
   - name: Nillys MC Server
     check: "tcp-ping"
     url: 135.148.162.24
     port: 25565
+    maxResponseTime: 5000
   - name: Plex Server 
     check: "tcp-ping"
     url: www.lifefuckingsucks.org
     port: 32400
+    maxResponseTime: 5000
   - name: VMWare ESXI Server 
     url: https://panel.vnhosts.com
   - name: Wisp Server 1 Status
     check: "tcp-ping"
     url: 135.148.162.24
     port: 9090
+    maxResponseTime: 5000
   - name: Yami/Xiimyr Minecraft Server 
     check: "tcp-ping"
     url: 135.148.162.24
     port: 25568
+    maxResponseTime: 5000
   - name: Yami Space Engineers Server 
     check: "udp-ping"
     url: 135.148.162.24
     port: 27016
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
