@@ -37,8 +37,6 @@ sites:
     url: www.lifefuckingsucks.org
     port: 32400
     maxResponseTime: 5000
-  - name: VMWare ESXI Server 
-    url: https://panel.vnhosts.com
   - name: Wisp Server 1 Status
     check: "tcp-ping"
     url: 135.148.162.24
