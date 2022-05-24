@@ -40,9 +40,9 @@
     "url": "135.148.162.24",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nerdy-megans-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
@@ -52,6 +52,7 @@
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-05-22": 97
     }
   },
@@ -79,11 +80,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nbeedy-server",
     "status": "up",
-    "uptime": "65.09%",
-    "uptimeDay": "12.51%",
+    "uptime": "65.16%",
+    "uptimeDay": "14.52%",
     "uptimeWeek": "47.33%",
-    "uptimeMonth": "65.09%",
-    "uptimeYear": "65.09%",
+    "uptimeMonth": "65.16%",
+    "uptimeYear": "65.16%",
     "time": 56,
     "timeDay": 78,
     "timeWeek": 68,
@@ -139,18 +140,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.09%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 94,
     "timeDay": 95,
     "timeWeek": 89,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2022-05-24": 144
+      "2022-05-24": 139
     }
   },
   {
