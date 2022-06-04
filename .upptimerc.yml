@@ -12,10 +12,10 @@ sites:
     url: 135.148.162.24
     port: 26900
     maxResponseTime: 5000
-  - name: Gnome Ark Server
+  - name: Gnome 7 Days Server
     check: "tcp-ping"
     url: 135.148.162.24
-    port: 27020
+    port: 28900
     maxResponseTime: 5000
   - name: Nbeedy Server
     check: "tcp-ping"
