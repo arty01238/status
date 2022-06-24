@@ -22,11 +22,6 @@ sites:
     url: 135.148.162.24
     port: 30320
     maxResponseTime: 5000
-  - name: EmmaVibes Server
-    check: "tcp-ping"
-    url: 135.148.162.24
-    port: 25900
-    maxResponseTime: 5000
   - name: Nillys MC Server
     check: "tcp-ping"
     url: 135.148.162.24
