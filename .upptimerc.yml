@@ -9,42 +9,32 @@ sites:
     url: https://www.vnhosts.net
   - name: Nerdy Megans Server
     check: "tcp-ping"
-    url: 135.148.162.24
+    url: 207.254.235.202
     port: 26900
-    maxResponseTime: 5000
-  - name: Gnome 7 Days Server
-    check: "tcp-ping"
-    url: 135.148.162.24
-    port: 28900
     maxResponseTime: 5000
   - name: Nbeedy Server
     check: "tcp-ping"
-    url: 135.148.162.24
+    url: 207.254.235.202
     port: 30320
     maxResponseTime: 5000
   - name: Nillys MC Server
     check: "tcp-ping"
-    url: 135.148.162.24
+    url: 207.254.235.203
     port: 25565
     maxResponseTime: 5000
   - name: Plex Server 
     check: "tcp-ping"
-    url: www.lifefuckingsucks.org
+    url: plex.vanillyneko.com
     port: 32400
-    maxResponseTime: 5000
-  - name: Wisp Server 1 Status
-    check: "tcp-ping"
-    url: 135.148.162.24
-    port: 9090
     maxResponseTime: 5000
   - name: Yami/Xiimyr Minecraft Server 
     check: "tcp-ping"
-    url: 135.148.162.24
+    url: 207.254.235.202
     port: 25568
     maxResponseTime: 5000
   - name: Yami Space Engineers Server 
     check: "udp-ping"
-    url: 135.148.162.24
+    url: 207.254.235.202
     port: 27016
     maxResponseTime: 5000
 
