@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnhosts.xyz.ico",
     "slug": "wisp-server",
     "status": "down",
-    "uptime": "38.31%",
+    "uptime": "38.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.81%",
-    "uptimeYear": "29.45%",
+    "uptimeMonth": "18.53%",
+    "uptimeYear": "29.18%",
     "time": 353,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 356,
-    "timeYear": 419,
+    "timeMonth": 386,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-07-05": 85,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -298,18 +299,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vnhosts.net.ico",
     "slug": "support-site",
     "status": "down",
-    "uptime": "17.45%",
+    "uptime": "17.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.25%",
+    "uptimeYear": "7.22%",
     "time": 976,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1752,
+    "timeYear": 1791,
     "dailyMinutesDown": {
-      "2023-07-05": 85,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -650,8 +652,7 @@
       "2022-07-27": 32,
       "2022-07-19": 45,
       "2022-07-13": 20,
-      "2022-07-07": 1180,
-      "2022-07-06": 141
+      "2022-07-07": 1180
     }
   },
   {
@@ -660,18 +661,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nerdy-megans-server",
     "status": "down",
-    "uptime": "12.78%",
+    "uptime": "12.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.12%",
+    "uptimeYear": "1.09%",
     "time": 51,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 66,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2023-07-05": 85,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -1032,8 +1034,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 26,
-      "2022-07-07": 1244,
-      "2022-07-06": 140
+      "2022-07-07": 1244
     }
   },
   {
@@ -1042,18 +1043,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nbeedy-server",
     "status": "down",
-    "uptime": "12.28%",
+    "uptime": "12.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.10%",
+    "uptimeYear": "1.07%",
     "time": 50,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 57,
+    "timeYear": 58,
     "dailyMinutesDown": {
-      "2023-07-05": 86,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -1414,8 +1416,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 105,
-      "2022-07-07": 1244,
-      "2022-07-06": 139
+      "2022-07-07": 1244
     }
   },
   {
@@ -1424,15 +1425,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nillys-mc-server",
     "status": "up",
-    "uptime": "60.57%",
+    "uptime": "60.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "55.28%",
+    "uptimeYear": "55.52%",
     "time": 50,
-    "timeDay": 54,
-    "timeWeek": 45,
-    "timeMonth": 45,
+    "timeDay": 84,
+    "timeWeek": 46,
+    "timeMonth": 47,
     "timeYear": 51,
     "dailyMinutesDown": {
       "2023-06-28": 38,
@@ -1613,8 +1614,7 @@
       "2022-07-27": 238,
       "2022-07-11": 260,
       "2022-07-10": 65,
-      "2022-07-07": 1239,
-      "2022-07-06": 137
+      "2022-07-07": 1239
     }
   },
   {
@@ -1623,7 +1623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
     "status": "down",
-    "uptime": "8.28%",
+    "uptime": "8.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1634,7 +1634,8 @@
     "timeMonth": 0,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2023-07-05": 86,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -1997,8 +1998,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 433,
       "2022-07-08": 70,
-      "2022-07-07": 1440,
-      "2022-07-06": 369
+      "2022-07-07": 1440
     }
   },
   {
@@ -2007,18 +2007,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yami-xiimyr-minecraft-server",
     "status": "down",
-    "uptime": "13.20%",
+    "uptime": "13.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.12%",
+    "uptimeYear": "1.09%",
     "time": 50,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 57,
+    "timeYear": 66,
     "dailyMinutesDown": {
-      "2023-07-05": 86,
+      "2023-07-06": 86,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -2379,8 +2380,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 21,
-      "2022-07-07": 1241,
-      "2022-07-06": 135
+      "2022-07-07": 1241
     }
   },
   {
@@ -2389,16 +2389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yami-space-engineers-server",
     "status": "up",
-    "uptime": "60.64%",
+    "uptime": "60.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "57.66%",
-    "time": 324,
-    "timeDay": 797,
-    "timeWeek": 812,
-    "timeMonth": 543,
-    "timeYear": 371,
+    "uptimeYear": "57.94%",
+    "time": 326,
+    "timeDay": 967,
+    "timeWeek": 773,
+    "timeMonth": 563,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-06-28": 36,
       "2023-06-09": 24,
@@ -2568,8 +2568,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   }
 ]
